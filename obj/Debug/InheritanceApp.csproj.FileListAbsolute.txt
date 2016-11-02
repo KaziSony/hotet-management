@@ -1,0 +1,6 @@
+C:\Users\user-19\Desktop\sony\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe.config
+C:\Users\user-19\Desktop\sony\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\sony\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe
+C:\Users\user-19\Desktop\sony\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.pdb
+C:\Users\user-19\Desktop\sony\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.exe
+C:\Users\user-19\Desktop\sony\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.pdb
